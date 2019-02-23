@@ -1,2 +1,2 @@
 # Códigos CIE-10 jeraquizados
-[Listado de códigos CIE-10](cie-10.csv) el archivo ```cie-10.csv``` contiene un listado jerarquizado de los códigos CIE-10 construido a partir de https://icdcode.info/espanol/cie-10/codigos.html con scrapy, al que se le agregaron los códigos desde ```cie10.xls``` de [deis.cl](http://www.deis.cl/actualizaciones-de-la-cie-10-a-diciembre-de-2013/)
+[Listado de códigos CIE-10](https://github.com/verasativa/CIE-10/raw/master/cie-10.csv) el archivo ```cie-10.csv``` contiene un listado jerarquizado de los códigos CIE-10 construido a partir de https://icdcode.info/espanol/cie-10/codigos.html con scrapy, al que se le agregaron los códigos desde ```cie10.xls``` de [deis.cl](http://www.deis.cl/actualizaciones-de-la-cie-10-a-diciembre-de-2013/)
